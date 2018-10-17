@@ -1,8 +1,8 @@
 import React from "react"
+import Layout from "../components/layout"
 
 export default () => (
-  <div style={{ margin: `3rem auto`, maxWidth: 600 }}>
-    <h1>Richard Hamming on Luck</h1>
+  <Layout>
     <div>
       <p>
         From Richard Hamming’s classic and must-read talk, “
@@ -24,5 +24,5 @@ export default () => (
       </blockquote>
     </div>
     <p>Posted April 09, 2011</p>
-  </div>
+  </Layout>
 )

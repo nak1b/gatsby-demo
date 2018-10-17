@@ -1,12 +1,10 @@
 # Gatsby Demo Project
-Starter with the bare essentials needed for a [Gatsby](https://www.gatsbyjs.org/) site.
+Demo site build with [Gatsby](https://www.gatsbyjs.org/) .
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world
-```
-
-Or [view the live demo here](https://gatsby-starter-hello-world-demo.netlify.com/).
+[view the live demo here](http://opposite-furniture.surge.sh).
 
 ## Running in development
 `gatsby develop`
+
+## Build Site for deployment
+`gatsby build`
